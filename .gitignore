@@ -211,4 +211,7 @@ venv.bak/
 # ipynb copy file
 *Copy*.ipynb
 
+# Data folder
+/data
+
 # End of https://www.gitignore.io/api/linux,macos,python,pycharm+all,jupyternotebook

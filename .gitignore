@@ -210,6 +210,7 @@ venv.bak/
 
 # ipynb copy file
 *Copy*.ipynb
+Untitled*.ipynb
 
 # Data folder
 /data
